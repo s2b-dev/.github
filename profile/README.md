@@ -1,6 +1,6 @@
 <div align="center">
 
-# S2B devs
+# S2B Devs
 
 **We build free, open-source AI tools for Obsidian.**
 
