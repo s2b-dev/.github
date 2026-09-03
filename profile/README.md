@@ -1,8 +1,8 @@
 <div align="center">
 
-# Smart Second Brain
+# S2B devs
 
-**Free, open-source AI for Obsidian.**
+**We build free, open-source AI tools for Obsidian.**
 
 [smartsecondbrain.dev](https://smartsecondbrain.dev) · [Plugin repo](https://github.com/s2b-dev/smart-second-brain) · [Discussions](https://github.com/s2b-dev/smart-second-brain/discussions)
 
@@ -10,12 +10,14 @@
 
 ---
 
-[**Smart Second Brain**](https://github.com/s2b-dev/smart-second-brain) is an Obsidian plugin that
-makes your vault smarter: better search, an interactive knowledge graph, and an AI assistant that
-actually knows your notes. Search and the graph work right away with no AI provider. Connecting
-one unlocks the full agent. Runs on desktop and mobile.
+We are a small group that started with a university project, kept going in our spare time, and
+develops everything in public. We build the things we want to use ourselves, and we use them
+every day.
 
-We build it in the open, in our spare time, because we use it every day.
+Our main project is [**Smart Second Brain**](https://github.com/s2b-dev/smart-second-brain), an
+Obsidian plugin that makes your vault smarter: better search, an interactive knowledge graph, and
+an AI assistant that actually knows your notes. Search and the graph work right away with no AI
+provider. Connecting one unlocks the full agent. Runs on desktop and mobile.
 
 ## What we believe
 
@@ -25,8 +27,9 @@ the same rule. Agents, skills, and memory are ordinary notes you can read and ed
 stored in an open format you can take with you. Nothing leaves your machine except what you
 configure, and there is no telemetry.
 
-**Everything in the open.** All development happens in public: the roadmap, the issues, the
-discussions, the pull requests. No private fork, no held-back "pro" version.
+**Everything in the open.** The roadmap, the issues, the discussions, the pull requests. No
+private fork, no held-back "pro" version, nothing developed behind closed doors and dropped on
+you finished.
 
 **Free, and staying free.** We are not trying to make money from this. There is no paid tier, no
 subscription, and nothing to upsell. AI can genuinely help with the way you think and write, and
