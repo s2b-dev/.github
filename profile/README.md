@@ -23,9 +23,10 @@ provider. Connecting one unlocks the full agent. Runs on desktop and mobile.
 
 **Your notes are yours.** We build on the [Obsidian manifesto](https://obsidian.md/about): files
 on your disk, in plain markdown, that will outlive any app. Everything the plugin creates follows
-the same rule. Agents, skills, and memory are ordinary notes you can read and edit, and chats are
-stored in an open format you can take with you. Nothing leaves your machine except what you
-configure, and there is no telemetry.
+the same rule. Agents, skills, and memory are ordinary notes you can read and edit. Chats are
+stored in a documented, versioned format of our own, since there is no standard for them yet; if
+one emerges, we would rather adopt it than defend ours. Nothing leaves your machine except what
+you configure, and there is no telemetry.
 
 **Everything in the open.** The roadmap, the issues, the discussions, the pull requests. No
 private fork, no held-back "pro" version, nothing developed behind closed doors and dropped on
@@ -42,7 +43,8 @@ missing, the community proposes it and we decide together. That is what
 [Discussions](https://github.com/s2b-dev/smart-second-brain/discussions) are for.
 
 **Standards over lock-in.** Where an open format or an existing convention exists, we use it
-rather than inventing our own.
+rather than inventing our own. Where none exists yet, we document what we do and keep it
+versioned, so it can be read, migrated, or replaced later.
 
 It is not finished, and not everything is perfect yet. It is at the point where we are confident
 enough to release and build on top of it in public.
